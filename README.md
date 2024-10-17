@@ -4,10 +4,11 @@ App name : ResQ
 
 Team : Jeruk
 
-David
-Christoper Chendra
-Jonathan Lawrencio
-Wilsen Julius
+1. David
+2. Christoper Chendra
+3. Jonathan Lawrencio
+4. Wilsen Julius
+
 How to run app
 
 Download the file
