@@ -9,7 +9,7 @@ Team : Jeruk
 3. Jonathan Lawrencio
 4. Wilsen Julius
 
-How to run app
+How to run app : 
 
 Download the file
 Find the folder and open it in Visual Studio Code
